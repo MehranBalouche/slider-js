@@ -1,0 +1,29 @@
+#imageSlider{
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+.btn-left{
+  padding: 0.375rem 0.75rem;
+  line-height: 1rem;
+  background: transparent;
+  border: none;
+  left: 1rem;
+  color: #dadada;
+}
+
+.btn-right{
+  padding: 0.375rem 0.75rem;
+  line-height: 1rem;
+  background: transparent;
+  border: none;
+  right: 1rem;  
+  color: #dadada;
+}
+.btn-right:hover {
+  color: #c5c5c5;
+}
+
+.btn-left:hover{
+  color: #c5c5c5;
+}
